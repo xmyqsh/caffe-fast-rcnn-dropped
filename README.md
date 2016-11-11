@@ -1,5 +1,5 @@
 
-This Repro is forked from
+This Repo is forked from
 [caffe-fast-rcnn/tree/0dcd397b29507b8314e252e850518c5695efbb83](https://github.com/rbgirshick/caffe-fast-rcnn/tree/0dcd397b29507b8314e252e850518c5695efbb83) which is a [caffe-fast-rcnn](https://github.com/rbgirshick/caffe-fast-rcnn) upgrade version that `upcompatible` with caffe at commit 33f2445.
 
 There is not a certain `branch` for this version. So I `ReGit` the
@@ -7,6 +7,8 @@ project of this certain version
 [caffe-fast-rcnn/tree/0dcd397b29507b8314e252e850518c5695efbb83](https://github.com/rbgirshick/caffe-fast-rcnn/tree/
 0dcd397b29507b8314e252e850518c5695efbb83) here for supporting
 [xmyqsh/py-faster-rcnn](https://github.com/xmyqsh/py-faster-rcnn) which is forked from [py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn) and is `upcompatible` with caffe master for supporting the latest cuDNN 5.1.5
+
+---
 
 # Caffe
 
